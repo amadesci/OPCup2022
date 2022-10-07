@@ -1,0 +1,10 @@
+C:\Users\Илья\Source\Repos\Parser\Parser\bin\Debug\Parser.exe.config
+C:\Users\Илья\Source\Repos\Parser\Parser\bin\Debug\Parser.exe
+C:\Users\Илья\Source\Repos\Parser\Parser\bin\Debug\Parser.pdb
+C:\Users\Илья\Source\Repos\Parser\Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Илья\Source\Repos\Parser\Parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Илья\Source\Repos\Parser\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+C:\Users\Илья\Source\Repos\Parser\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Source\Repos\Parser\Parser\obj\Debug\Parser.csproj.CopyComplete
+C:\Users\Илья\Source\Repos\Parser\Parser\obj\Debug\Parser.exe
+C:\Users\Илья\Source\Repos\Parser\Parser\obj\Debug\Parser.pdb
